@@ -1,4 +1,4 @@
-# WRAITH — DNS Passive Recon Scanner
+# WRAITH - DNS Passive Recon Scanner
 
 > Passive DNS reconnaissance for IP ranges. No port scanning. No active probing. Just DNS.
 
